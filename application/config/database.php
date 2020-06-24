@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'webshop',
+	'hostname' => 'dochoitrecon.herokuapp.com',
+	'username' => 'linh_shopdochoi',
+	'password' => 'Linh1234',
+	'database' => 'shopdochoi',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
